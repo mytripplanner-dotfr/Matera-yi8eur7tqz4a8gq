@@ -1,0 +1,169 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Matera, la Cité des Sassi : Un Voyage Hors du Temps",
+  "budget_total": "900€",
+  "duree": "4 jours",
+  "temps_vol": "2h30 (depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Première Immersion dans les Sassi",
+      "legende": "Après un voyage depuis Paris, installez-vous confortablement à Matera. Profitez d'une première balade douce dans les ruelles labyrinthiques des Sassi, laissant la magie de ce lieu unique opérer et vous imprégner de son atmosphère intemporelle. Une journée légère pour une arrivée en douceur.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Bari et transfert vers Matera.",
+        "<strong>🛏️</strong>: Installation à votre hôtel troglodyte au cœur des Sassi.",
+        "<strong>🚶‍♀️</strong>: Première balade relaxante dans les Sassi di Matera, pour s'imprégner de l'atmosphère."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert",
+          "texte": "Depuis l'aéroport de Bari (BRI), des bus directs ou des navettes privées sont disponibles pour rejoindre Matera en environ 1h30. Pensez à réserver à l'avance."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Découverte des Sassi et Panoramas Époustouflants",
+      "legende": "Plongez au cœur des Sassi en explorant ses quartiers historiques. Admirez les églises rupestres et les habitations troglodytes, puis laissez-vous émerveiller par les vues panoramiques sur la ville. Une journée riche en découvertes culturelles et visuelles, à un rythme tranquille.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🚶‍♂️</strong>: Exploration du Sasso Barisano, le quartier le plus restauré, avec ses boutiques et cafés.",
+        "<strong>⛪</strong>: Visite de la Cathédrale de Matera, offrant une vue imprenable sur les Sassi.",
+        "<strong>🌅</strong>: Coucher de soleil depuis la Piazza Vittorio Veneto, un point de vue idéal sur la ville illuminée."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Portez des chaussures confortables et antidérapantes, les rues des Sassi sont pavées et parfois escarpées. L'exploration se fait principalement à pied."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Nature, Culture et Gastronomie Locale",
+      "legende": "Évadez-vous dans la nature environnante du Parc de la Murgia Materana pour une balade paisible. L'après-midi, plongez dans la culture culinaire locale avec une expérience gustative. Une journée équilibrée entre nature, détente et plaisirs gourmands.",
+      "lieu": "Matera et Parco della Murgia Materana",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Randonnée légère dans le Parco della Murgia Materana, pour admirer les Sassi depuis l'autre rive du canyon.",
+        "<strong>🧘‍♀️</strong>: Moment de détente et contemplation des paysages uniques du parc, idéal pour la photographie.",
+        "<strong>🍝</strong>: Dégustation de produits locaux ou cours de cuisine pour découvrir les saveurs de la Basilicate."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie",
+          "texte": "Ne manquez pas de goûter le \"pane di Matera\", un pain traditionnel reconnu pour sa qualité et son goût unique, souvent servi avec de l'huile d'olive locale."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Regards et Départ de Matera",
+      "legende": "Profitez de vos dernières heures à Matera pour quelques achats souvenirs ou une dernière promenade. Emportez avec vous les images et l'atmosphère intemporelle de cette ville extraordinaire, avant de prendre le chemin du retour. Une matinée douce pour clore ce voyage mémorable.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🛍️</strong>: Achats de souvenirs artisanaux dans les boutiques des Sassi.",
+        "<strong>☕</strong>: Petit-déjeuner typique et contemplation des Sassi une dernière fois.",
+        "<strong>🛫</strong>: Transfert vers l'aéroport de Bari et vol retour vers Paris."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l'aéroport de Bari, surtout si votre vol est tôt le matin. Les bus peuvent être moins fréquents le week-end."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 191 €/pers",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 70 €/pers (transferts aéroport et locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 400 €/pers (sur la base de 30-40€/repas)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 150 €/pers (sur la base de 100€/nuit en chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 70 €/pers (entrées musées, activités culturelles)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Avril à Juin et Septembre à Octobre",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Les Sassi sont escarpés, prévoyez des chaussures confortables et antidérapantes pour explorer les ruelles pavées.",
+      "symbole": "👟"
+    },
+    {
+      "titre": "L'eau du robinet est potable en Italie. Pensez à une gourde réutilisable pour rester hydraté.",
+      "symbole": "💧"
+    },
+    {
+      "titre": "La langue officielle est l'italien. Quelques notions de base seront appréciées et faciliteront les échanges.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "La monnaie est l'Euro (€). Les cartes bancaires sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.",
+      "symbole": "💳"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol Paris-Bari",
+      "url": "https://www.skyscanner.fr/routes/paris/bari/vols-de-paris-a-bari.html",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Matera",
+      "url": "https://www.basilicataturistica.it/en/matera/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports",
+      "titre": "Bus Pugliairbus (Bari-Matera)",
+      "url": "https://www.aeroportidipuglia.it/bus-pugliairbus",
+      "symbole": "🚌"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Matera",
+      "url": "https://www.ilmeteo.it/meteo/Matera",
+      "symbole": "🌤️"
+    }
+  ]
+}
